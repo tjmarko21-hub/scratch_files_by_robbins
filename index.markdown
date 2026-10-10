@@ -39,10 +39,6 @@ The reader will not the conspicuity of the term, PIZZA, which is a convention in
 
 Should you wish to include any supplemental materials--such as specific forms of source commentary or illustrations--they may be provided here.  They are not required. If you do not have any supplements, please eliminate this field.
 
-# Bibliography
-
-This section should provide a bibliography of all sources cited in your work as well as 
-
 # Credits and Acknowledgments
 
 Many thanks to Richard Young and Joy Reeber for their support and facilitation of this project.
